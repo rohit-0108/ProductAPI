@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\infrastructure\\identity\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68379E00-2564-4DE5-B783-36019D8A1B27}|src\\Application\\Application.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68379E00-2564-4DE5-B783-36019D8A1B27}|src\\Application\\Application.csproj|solutionrelative:src\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\users\\admin\\downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\productapi\\src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "API",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\API.csproj",
+              "RelativeDocumentMoniker": "src\\API\\API.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\API.csproj",
+              "RelativeToolTip": "src\\API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T06:52:55.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\Infrastructure\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBEAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T06:47:22.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\appsettings.json",
+              "RelativeToolTip": "src\\API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T05:51:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\API\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\Program.cs",
+              "RelativeToolTip": "src\\API\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T05:50:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\Infrastructure\\Identity\\JwtService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\JwtService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\Infrastructure\\Identity\\JwtService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Identity\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T05:42:39.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "src\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "src\\Application\\Services\\UserService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAASwCcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T05:43:42.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T05:43:21.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\\ProductAPI\\src\\API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T05:43:19.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

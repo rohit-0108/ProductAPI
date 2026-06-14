@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.NET Core Tasks\\ProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|c:\\.net core tasks\\productapi\\src\\infrastructure\\identity\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\identity\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|c:\\.net core tasks\\productapi\\src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DAA2A7D-DD62-48F0-B330-7ED598095850}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{795AB9FA-3928-4968-B7C2-ADA55F077297}|src\\Domain\\Domain.csproj|c:\\.net core tasks\\productapi\\src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{795AB9FA-3928-4968-B7C2-ADA55F077297}|src\\Domain\\Domain.csproj|solutionrelative:src\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68379E00-2564-4DE5-B783-36019D8A1B27}|src\\Application\\Application.csproj|c:\\.net core tasks\\productapi\\src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68379E00-2564-4DE5-B783-36019D8A1B27}|src\\Application\\Application.csproj|solutionrelative:src\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\.net core tasks\\productapi\\src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\.net core tasks\\productapi\\src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|c:\\.net core tasks\\productapi\\src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12A2FD1A-5279-4B91-AF64-2EB84CE632FC}|src\\API\\API.csproj|solutionrelative:src\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\.NET Core Tasks\\ProductAPI\\src\\Infrastructure\\Identity\\JwtService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Identity\\JwtService.cs",
+              "ToolTip": "C:\\.NET Core Tasks\\ProductAPI\\src\\Infrastructure\\Identity\\JwtService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Identity\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T04:08:44.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Infrastructure.csproj",
+              "DocumentMoniker": "C:\\.NET Core Tasks\\ProductAPI\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "C:\\.NET Core Tasks\\ProductAPI\\src\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "src\\Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T04:08:19.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\.NET Core Tasks\\ProductAPI\\src\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\.NET Core Tasks\\ProductAPI\\src\\Domain\\Domain.csproj",
+              "RelativeToolTip": "src\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T04:08:13.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\.NET Core Tasks\\ProductAPI\\src\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "src\\Application\\Application.csproj",
+              "ToolTip": "C:\\.NET Core Tasks\\ProductAPI\\src\\Application\\Application.csproj",
+              "RelativeToolTip": "src\\Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T04:08:06.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\.NET Core Tasks\\ProductAPI\\src\\API\\API.csproj",
+              "RelativeDocumentMoniker": "src\\API\\API.csproj",
+              "ToolTip": "C:\\.NET Core Tasks\\ProductAPI\\src\\API\\API.csproj",
+              "RelativeToolTip": "src\\API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T04:07:49.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\.NET Core Tasks\\ProductAPI\\src\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\.NET Core Tasks\\ProductAPI\\src\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T04:01:28.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\.NET Core Tasks\\ProductAPI\\src\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\API\\appsettings.json",
+              "ToolTip": "C:\\.NET Core Tasks\\ProductAPI\\src\\API\\appsettings.json",
+              "RelativeToolTip": "src\\API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T04:00:38.614Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

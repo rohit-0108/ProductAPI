@@ -1,0 +1,40 @@
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Users\Admin\Downloads\workspace-019ebf1e-bb95-7d84-bdac-f760b2aa7491\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\.NET Core Tasks\ProductAPI\src\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
